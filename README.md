@@ -1,4 +1,5 @@
 🧹 Marketing Data Cleaning Project
+
 📖 Overview
 
 This project demonstrates how to clean, preprocess, and prepare marketing data for analysis using Python. It focuses on identifying common data quality issues, such as missing values, inconsistencies, and duplicates, and transforming the dataset into a structured, analysis-ready form.
